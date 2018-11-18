@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SubAttack
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=str
+comment2.target=boolean\ isNumString(java.lang.String)
+comment3.params=str
+comment3.target=boolean\ circleLegal(java.lang.String)
+comment4.params=x\ y\ subX\ subY\ subL\ subH
+comment4.target=boolean\ overLap(int,\ int,\ int,\ int,\ int,\ int)
+comment5.params=x\ y\ subX\ subY\ subL\ subH
+comment5.target=int\ far(int,\ int,\ int,\ int,\ int,\ int)
+numComments=6
